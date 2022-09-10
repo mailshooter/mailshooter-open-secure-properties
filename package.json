@@ -1,0 +1,27 @@
+{
+  "name": "mailshooter-open-secure-properties",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mailshooter-open-secure-properties.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailshooter/mailshooter-open-secure-properties.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailshooter/mailshooter-open-secure-properties/issues"
+  },
+  "homepage": "https://github.com/mailshooter/mailshooter-open-secure-properties#readme",
+  "dependencies": {
+    "mailshooter-open-secure-properties": "^1.0.0",
+    "mcrypt": "^0.1.17",
+    "yaml": "^2.1.1"
+  }
+}

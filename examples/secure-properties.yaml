@@ -1,0 +1,29 @@
+app:
+  - server: B+INSzHKbGrrXWbCnn9WEa5XzAB56MS5jDel0U+/vbo=
+    databases:
+      - host: wiyUUg6LUcangp4bhvWc3g==
+        port: cPHEHs5mIalWfSEtz5cQUA==
+        user: aeNypNkI/912qj4PImYCBQ==
+        password: MfFrI4VawRFu2CkO0P4sdw==
+        database: dBKa0yA2CTjTDQkiKtEtKg==
+  - server: Ie2ITind4bDHTDU3D00kWWZeuASCYs/GJmYSbIz/G/Y=
+    databases:
+      - host: eJlx7/zgiufQ15HLs8F66Q==
+        port: 4o5kl/I6KPuUfP5D+YxjvA==
+        user: +Ruf5+nAFJu7qCXs0issPg==
+        password: r+HPJosSlmHwhr+f8pEnPg==
+        database: kdZQPd3XhjtYRTHTP1K/Bw==
+  - server: 5UR7qrdGZSp27W+vObRrNMEGCjjYbGL1oDVioFYX1u7BBK93tK3n+qNNupq7stgj
+    databases:
+      - host: Ahie/m/PkTwHwqO8VwWvpA==
+        port: XlMhnbcnNAfUsKHq3+XuWg==
+        user: e5wLLFdTRQIXnPh9FFGxow==
+        password: EI8jhPT290C6n4BhDXmzhw==
+        database: V4kLgx+K+jnAti5iNqcySw==
+  - server: EFDitT+xAkB9C9zwiBtHnrQXvThx2W+2rIgXMJfzeVA=
+    databases:
+      - host: tVkE5je3tkvAq39bk/wHUw==
+        port: bVQQZiHCdOCjxwuLLL2hUw==
+        user: yjWKE5ZjpPPGLKQkEtCmXw==
+        password: XoGIFFi4cPeywUk2MtftEA==
+        database: /vyUlatALPsm5vk5QJf38w==
