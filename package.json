@@ -1,6 +1,6 @@
 {
   "name": "mailshooter-open-secure-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "mailshooter-open-secure-properties.js",
   "directories": {
@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/mailshooter/mailshooter-open-secure-properties#readme",
   "dependencies": {
-    "mailshooter-open-secure-properties": "^1.0.0",
     "mcrypt": "^0.1.17",
     "yaml": "^2.1.1"
   }
